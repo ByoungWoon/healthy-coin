@@ -6,4 +6,4 @@
 ## 해결 방안
 - 운동 -> 보상이 있는 운동
 
-##Coin Economy
+## Coin Economy
