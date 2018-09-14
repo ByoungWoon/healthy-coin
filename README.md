@@ -7,3 +7,4 @@
 - 운동 -> 보상이 있는 운동
 
 ## Coin Economy
+<img width="856" alt="2018-09-14 7 40 34" src="https://user-images.githubusercontent.com/29855393/45545744-332bb200-b856-11e8-87ed-516f3ea22199.png">
